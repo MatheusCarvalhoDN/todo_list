@@ -1,6 +1,4 @@
-Peço desculpas pelo lapso anterior. Você está correto. A documentação anterior não incluiu as etapas para configurar a conexão com o banco de dados. Aqui está a documentação atualizada:
-
-Para executar o código fornecido, siga as etapas abaixo:
+Para executar o código,siga as etapas abaixo:
 
 1. Certifique-se de ter um ambiente de desenvolvimento configurado. Você precisará de um servidor web com suporte a PHP e um banco de dados MySQL. Se você não tiver um ambiente configurado, você pode usar ferramentas como XAMPP, WAMP ou MAMP, que fornecem um servidor web local com suporte a PHP e MySQL.
 
